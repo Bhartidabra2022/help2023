@@ -1,0 +1,27 @@
+useful git commands:
+
+
+	Basic Commmand
+
+1- To make a git repository
+	git init 
+
+2- To check the status
+	git status
+
+3- To add  the files in staging area
+	git add .   //to add all files
+	or      
+	git add --a
+	git add file1 file2 //to add particular files
+
+4- To commit of changes in file like taking a screenshot
+	git commit -m "message"
+
+5- to check the previous commits
+	git log
+(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)(⌐■_■)
+------------------------------------------------------------------
+	GIT COMMANDS FOR THE REMOTE(github)
+
+1-To make a remote(to push and pull 
